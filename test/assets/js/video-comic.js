@@ -249,15 +249,15 @@ function vComic() {
 	}
 
 	var play = function() {
-		if ( player.state.code != playerStates.playing ) {
+		//if ( player.state.code != playerStates.playing ) {
 			player.dom.play();
-		}
+		//}
 	}
 
 	var pause = function() {
-		if ( player.state.code != playerStates.paused ) {
+		//if ( player.state.code != playerStates.paused ) {
 			player.dom.pause();
-		}
+		//}
 	}
 
 	var setPlayerState = function(code) {
