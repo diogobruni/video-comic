@@ -1,0 +1,11 @@
+bower_components
+node_modules
+.npm
+*.log
+pids
+*.pid
+*.seed
+.grunt
+*.psd
+*.mkv
+*.mp4

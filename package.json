@@ -1,0 +1,16 @@
+{
+  "name": "video-comic",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "lite": "lite-server"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-uglify": "^0.11.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.1.0"
+  }
+}

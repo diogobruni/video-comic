@@ -1,0 +1,15 @@
+.videoContainer {
+	position: relative;
+}
+.videoContainer video {
+	display: block;
+	width: 100%;
+}
+.videoContainer .videoCover {
+	position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}

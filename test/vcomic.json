@@ -1,0 +1,72 @@
+{
+	"chapters": [
+		{
+			"number": 1,
+			"name": "First Chapter",
+			"fileUrl": "movie.mp4",
+			"time": 0
+		},
+		{
+			"number": 2,
+			"name": "Second Chapter",
+			"fileUrl": "movie.mp4",
+			"time": 10
+		},
+		{
+			"number": 3,
+			"name": "Third Chapter",
+			"fileUrl": "movie.mp4",
+			"time": 20
+		},
+		{
+			"number": 4,
+			"name": "Fourth Chapter",
+			"fileUrl": "movie.mp4",
+			"time": 30
+		},
+		{
+			"number": 5,
+			"name": "Fifth Chapter",
+			"fileUrl": "movie.mp4",
+			"time": 40
+		}
+	],
+	"pauses": [
+		{
+			"fileUrl": "movie.mp4",
+			"time": 18
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 20.5
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 22
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 31
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 39.8
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 42.6
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 45.5
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 49
+		},
+		{
+			"fileUrl": "movie.mp4",
+			"time": 51
+		}
+	]
+}
